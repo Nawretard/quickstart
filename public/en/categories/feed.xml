@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="//localhost:1313/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Erwan&#39;s tuto</title>
+    <link>//localhost:1313/en/categories/</link>
+    <description>Recent content in Categories on Erwan&#39;s tuto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <atom:link rel="self" href="//localhost:1313/en/categories/feed.xml" type="application/rss+xml" />
+  </channel>
+</rss>

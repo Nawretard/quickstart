@@ -1,0 +1,24 @@
+theme: hugo-flex
+defaultContentLanguage: fr
+defaultContentLanguageInSubdir: true
+languages:
+  fr:
+    contentDir: content/fr
+    disabled: false
+    languageCode: fr-FR
+    languageDirection: ltr
+    languageName: French
+    params:
+      subtitle: Reference, Tutoriels et Explication
+    title: Tuto erwan
+    weight: 1
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Erwan's tuto
+    weight: 2

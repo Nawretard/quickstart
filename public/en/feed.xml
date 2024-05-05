@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="//localhost:1313/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erwan&#39;s tuto</title>
+    <link>//localhost:1313/en/</link>
+    <description>Recent content on Erwan&#39;s tuto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sat, 04 May 2024 15:48:41 +0200</lastBuildDate>
+    <atom:link rel="self" href="//localhost:1313/en/feed.xml" type="application/rss+xml" />
+  </channel>
+</rss>

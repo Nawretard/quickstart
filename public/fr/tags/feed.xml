@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="//localhost:1313/xml/base.min.xml" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Tuto erwan</title>
+    <link>//localhost:1313/fr/tags/</link>
+    <description>Recent content in Tags on Tuto erwan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <atom:link rel="self" href="//localhost:1313/fr/tags/feed.xml" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu login screen</title>
+      <link>//localhost:1313/fr/posts/ubuntu-login-screen/</link>
+      <pubDate>sam., 04 mai 2024 15:48:41 +0200</pubDate>
+      <guid>//localhost:1313/fr/posts/ubuntu-login-screen/</guid>
+      <description>
+
+
+&lt;h1 id=&#34;changer-lécran-daccueil-de-ubuntu&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;//localhost:1313/fr/posts/ubuntu-login-screen/#changer-l%c3%a9cran-daccueil-de-ubuntu&#34;&gt;Changer l&amp;rsquo;écran d&amp;rsquo;accueil de Ubuntu&lt;/a&gt;
+&lt;/h1&gt;
+
+
+
+&lt;h2 id=&#34;préambule&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;//localhost:1313/fr/posts/ubuntu-login-screen/#pr%c3%a9ambule&#34;&gt;Préambule&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Nous allons utiliser le script de ce super utilisateur qui a déjà résolu le problème à notre place :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/PRATAP-KUMAR/ubuntu-gdm-set-background&#34;&gt;https://github.com/PRATAP-KUMAR/ubuntu-gdm-set-background&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Rendez-vous sur son github pour lire le fichier &lt;code&gt;ubuntu-gdm-set-background&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Il s&amp;rsquo;agit d&amp;rsquo;un fichier très simple, en plus, les sources sont copyleft avec la licence GPL-3.0, super !&lt;/p&gt;
+
+
+
+&lt;h2 id=&#34;étape-1&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;//localhost:1313/fr/posts/ubuntu-login-screen/#%c3%a9tape-1&#34;&gt;Étape 1&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;On télécharge le fichier :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;curl -L -O &lt;a href=&#34;https://raw.githubusercontent.com/PRATAP-KUMAR/ubuntu-gdm-set-background/main/ubuntu-gdm-set-background&#34;&gt;https://raw.githubusercontent.com/PRATAP-KUMAR/ubuntu-gdm-set-background/main/ubuntu-gdm-set-background&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+&lt;h2 id=&#34;étape-2&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;//localhost:1313/fr/posts/ubuntu-login-screen/#%c3%a9tape-2&#34;&gt;Étape 2&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;On choisit une image de fond d&amp;rsquo;écran. C&amp;rsquo;est bon?
+Alors changeons de fond d&amp;rsquo;écran !&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;sudo ./ubuntu-gdm-set-background &amp;ndash;image ~/Downloads/mywallpaper.jpg&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+
+&lt;h2 id=&#34;étape-3&#34;&gt;
+  &lt;a class=&#34;Heading-link u-clickable&#34; href=&#34;//localhost:1313/fr/posts/ubuntu-login-screen/#%c3%a9tape-3&#34;&gt;Étape 3&lt;/a&gt;
+&lt;/h2&gt;
+&lt;p&gt;Vérifier que le fond d&amp;rsquo;écran a bien changé (par exemple en verrouillant l&amp;rsquo;écran avec les touches &amp;lsquo;Windows&amp;rsquo; + &amp;rsquo;l&amp;rsquo;)&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;joli_fond_d_ecran&#34; src=&#34;../ubuntu-login-screen/joli_fond_d_ecran.webp&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+  </channel>
+</rss>
