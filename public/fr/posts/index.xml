@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tuto erwan</title>
+    <link>/fr/posts/</link>
+    <description>Recent content in Posts on Tuto erwan</description>
+    <generator>Hugo</generator>
+    <language>fr-FR</language>
+    <lastBuildDate>Sat, 04 May 2024 15:48:41 +0200</lastBuildDate>
+    <atom:link href="/fr/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ubuntu login screen</title>
+      <link>/fr/posts/ubuntu-login-screen/</link>
+      <pubDate>Sat, 04 May 2024 15:48:41 +0200</pubDate>
+      <guid>/fr/posts/ubuntu-login-screen/</guid>
+      <description>Changer l&amp;rsquo;écran d&amp;rsquo;accueil de Ubuntu Préambule Nous allons utiliser le script de ce super utilisateur qui a déjà résolu le problème à notre place :&#xA;https://github.com/PRATAP-KUMAR/ubuntu-gdm-set-background&#xA;Rendez-vous sur son github pour lire le fichier ubuntu-gdm-set-background&#xA;Il s&amp;rsquo;agit d&amp;rsquo;un fichier très simple, en plus, les sources sont copyleft avec la licence GPL-3.0, super !&#xA;Étape 1 On télécharge le fichier :&#xA;curl -L -O https://raw.githubusercontent.com/PRATAP-KUMAR/ubuntu-gdm-set-background/main/ubuntu-gdm-set-background&#xA;Étape 2 On choisit une image de fond d&amp;rsquo;écran.</description>
+    </item>
+  </channel>
+</rss>
